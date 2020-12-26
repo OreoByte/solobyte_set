@@ -1,6 +1,4 @@
 #!/usr/bin/python3
-#https://www.datacamp.com/community/tutorials/argument-parsing-in-python
-# use curl | jq instead of python scripting for manually queries
 
 import argparse
 import requests
